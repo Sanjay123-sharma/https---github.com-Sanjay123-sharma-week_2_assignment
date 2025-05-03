@@ -33,4 +33,4 @@ JavaScript (ES6+)
 JSX
 
 🧑‍💻 Author
-Your Name – Sanjay Sharma
+Name – Sanjay Sharma
