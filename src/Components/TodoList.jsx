@@ -5,7 +5,7 @@ const TodoList = ({ tasks, onToggle, onDelete }) => {
     <div>
       {tasks.map((task) => {
         return (
-          <Task 
+          <Task
             key={task.id}
             task={task}
             onToggle={onToggle}
