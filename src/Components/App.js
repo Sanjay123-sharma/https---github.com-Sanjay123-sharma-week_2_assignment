@@ -64,11 +64,19 @@ function App() {
 
   return (
     <div className="App">
+<<<<<<< HEAD
       {/* Header */}
       <header className="App-header bg-primary text-white py-4 rounded-top text-center">
         <h1 className="mb-0">Todo List</h1>
         <p className="lead">Stay organized, one task at a time</p>
       </header>
+=======
+    {/* Header */}
+    <header className="App-header bg-primary text-white py-4 rounded-top text-center">
+      <h1 className="mb-0">TODO LIST</h1>
+      <p className="lead">Stay organized, one task at a time</p>
+    </header>
+>>>>>>> b1cb9cb52f1eea50d893367fac69f768a6a4f6e8
 
       {/* Form */}
       <form onSubmit={addTask} className="mt-4">
